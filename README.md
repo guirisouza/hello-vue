@@ -1,6 +1,17 @@
-# huntingsys
+# HuntingSys
 
-## Project setup
+Projeto aplicado voltado para o aprendizado de Vue. 
+
+O sistema consiste em um simples controle de candidatos a vagas de emprego.
+
+### First (baby)step's
+- [x] Criar Projeto Vue CLI
+- [x] Criar o primeiro componente de overview das vagas
+- [x] Criar feature para add uma vaga
+- [ ] Feature de edição de vaga
+- [ ] Feature deleção de vaga  
+
+# Project setup
 ```
 npm install
 ```
