@@ -161,6 +161,7 @@ export default {
             const job = {...this.jobForm}
             this.jobs.push(job)
             this.showForm = false
+            this.tittleButton = "Adicionar Vaga"
             this.jobForm = {name: '', 
                 hunting: 0, 
                 recommendation: 0, 
